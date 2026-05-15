@@ -1,13 +1,16 @@
 ## Hi Im Yogeswari 👋
+
 🎓 Engineering Graduate (B.Tech Information Technology)
+
 📈 Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, Python
 ________________________________________________________________________________________________________________________________________________________________________
 
 🔹 About Me
+
 I am an engineering graduate with a strong foundation in problem-solving and analytical thinking.
 Currently focused on Data Analytics, I specialize in transforming raw data into actionable insights through dashboards, reports, and workflow automation.
 ____________________________________________________________________________________________________________________________________________________________________________
-
+Skills
 💡 Skilled in Power BI for interactive dashboards
 🗄️ Experienced with SQL for database management and queries
 🐍 Proficient in Python for data analysis and visualization
