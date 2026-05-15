@@ -50,6 +50,5 @@ I’m always excited to connect with fellow data enthusiasts, analysts, and deve
  📫 How to reach me: www.linkedin.com/in/yogeswarikadarkarai |
 www.github.com/Yogeswari-sri
 
-- 😄 Pronouns: Data Analyst | Excel & Power BI | She/Her
-- ⚡ Fun fact: ...
--->
+😄 Pronouns: Data Analyst | Excel & Power BI | She/Her
+  
