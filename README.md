@@ -6,7 +6,7 @@
 ________________________________________________________________________________________________________________________________________________________________________
 https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=for-the-badge&logo=Skills & Tools
 <!-- badges: start -->
-![Power BI](https://img.shields.io/badge/Power%20BI-Data-blue?style=for-the-badge&logo=power-bi&logoColor=white)
+![Power BI](https://style=for-the-badge&logo=power-bi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Query-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
