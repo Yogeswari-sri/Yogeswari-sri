@@ -13,10 +13,7 @@ ________________________________________________________________________________
 - **Excel** — Pivot tables, Power Query.
 - **GitHub** — Repo management, CI basics.
 
-| Skills | Tools |
-|---|---|
-| Power BI; Dashboarding | ![Power BI](https://img.shields.io/badge/Power%20BI-Data-blue?style=for-the-badge&logo=power-bi) |
-| SQL; Data Cleaning | ![SQL](https://img.shields.io/badge/SQL-Query-blue?style=for-the-badge&logo=mysql) |
+____________________________________________________________________________________________________________________________________________________________________________
 
 🔹 About Me
 
