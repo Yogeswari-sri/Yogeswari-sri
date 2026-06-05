@@ -5,12 +5,18 @@
 📈 Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, Python
 ________________________________________________________________________________________________________________________________________________________________________
 
+## 💻 Coding Skills
+
 <!-- badges: start -->
 ![Python](https://img.shields.io/badge/Python- -blue?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI- -blue?style=for-the-badge&logo=power-bi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel- -green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL- -blue?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub- -black?style=for-the-badge&logo=github&logoColor=white)
 <!-- badges: end -->
+
+### 🧩 Highlights
+- **Python** — Data analysis, automation, visualization  
+- **SQL** — Query optimization, joins, constraints  
+- **GitHub** — Version control, collaboration, documentation
 
 
 ### Skills & Tools
