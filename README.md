@@ -3,20 +3,7 @@
 🎓 Engineering Graduate (B.Tech Information Technology)
 
 📈 Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, Python
-________________________________________________________________________________________________________________________________________________________________________
-
-## 💻 Coding Skills
-
-<!-- badges: start -->
-![Python](https://img.shields.io/badge/Python- -blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL- -blue?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub- -black?style=for-the-badge&logo=github&logoColor=white)
-<!-- badges: end -->
-
-### 🧩 Highlights
-- **Python** — Data analysis, automation, visualization  
-- **SQL** — Query optimization, joins, constraints  
-- **GitHub** — Version control, collaboration, documentation
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 ### Skills & Tools
@@ -31,20 +18,22 @@ ________________________________________________________________________________
 | Power BI; Dashboarding | ![Power BI](https://img.shields.io/badge/Power%20BI-Data-blue?style=for-the-badge&logo=power-bi) |
 | SQL; Data Cleaning | ![SQL](https://img.shields.io/badge/SQL-Query-blue?style=for-the-badge&logo=mysql) |
 
-
-
 🔹 About Me
 
 I am an engineering graduate with a strong foundation in problem-solving and analytical thinking.
 Currently focused on Data Analytics, I specialize in transforming raw data into actionable insights through dashboards, reports, and workflow automation.
 ____________________________________________________________________________________________________________________________________________________________________________
-Skills
+## 📊 Projects
 
+| Project | Description | Tools |
+|----------|--------------|--------|
+| **E‑commerce Sales Dashboard** | KPI‑driven analysis of sales trends | Power BI |
+| **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, SQL |
+| **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
+| **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
+| **Chocolate Sales Analysis** | Regional & product‑level insights with KPIs | Power BI |
+| **ATM CREDIT CARDS Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
 
-💡 Skilled in Power BI for interactive dashboards
-🗄️ Experienced with SQL for database management and queries
-🐍 Proficient in Python for data analysis and visualization
-📊 Advanced Excel for reporting and automation
 __________________________________________________________________________________________________________________________________________________________________________
 What I Know
 
