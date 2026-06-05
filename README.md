@@ -32,49 +32,29 @@ ________________________________________________________________________________
 | **ATM CREDIT CARDS Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
 
 __________________________________________________________________________________________________________________________________________________________________________
-What I Know
 
-
- A data enthusiast transitioning from a B.Tech background into Data Analytics. I specialize in turning raw data into meaningful insights using:
-
-Excel: Data cleaning, transformation, and advanced modelling
-
-Power BI & DAX: Interactive dashboards, descriptive & predictive analytics
-
-SQL & Python: Querying, automation, and visualization
-
-I enjoy building end-to-end data projects—from exploration and modelling to dashboard design and documentation. 
+🏆 Achievements
+- Built interactive dashboards with 10,000+ sales records  
+- Applied predictive & prescriptive analytics for business insights  
+- Designed uniform report formats with clear KPIs  
+- Contributed to open‑source datasets & GitHub repositories  
 ____________________________________________________________________________________________________________________________________________________________________________
-PROJECTS
+🎯 Goals
+- Expand portfolio with real‑world analytics projects  
+- Learn advanced machine learning for analytics  
+- Automate data cleaning workflows using Python & SQL  
+- Contribute to open‑source data projects  
+___________________________________________________________________________________________________________________________________________________________________________
+🌐 Languages
+- English  
+- Tamil  
+  __________________________________________________________________________________________________________________________________________________________________________
+ 🔗 Connect With Me
+- [LinkedIn](https://https://www.linkedin.com/in/yogeswarikadarkarai/)  
+- [GitHub](https://github.com/Yogeswari-sri)  
+- 📧 Email: kadalyoga20@gmail.com
+- 📱 Phone: +91 9845702670
 
-
-📊 E‑Commerce Sales Database (Excel) – Data transformation & modelling
-
-🍫 Chocolate Shipment Analysis (Power BI) – Dashboard design & insights
-
-🌾 Agricultural Commodity Tracker (Power BI) – Real-time analytics
-
-I’m passionate about data storytelling, creating dashboards that not only inform but also guide decisions.
-
-
-
-🤝 Let’s Collaborate
-
-
-I’m always excited to connect with fellow data enthusiasts, analysts, and developers. I’m looking to collaborate on:
-
-📊 Excel projects – data cleaning, transformation, and modelling
-
-📈 Power BI dashboards – DAX calculations, interactive reports, and analytics
-
-🗄️ Data projects – SQL queries, Python scripts, and end‑to‑end workflows
-
-📝 Documentation – clear, concise project write‑ups for GitHub
-
-
-
- 📫 How to reach me: www.linkedin.com/in/yogeswarikadarkarai |
-www.github.com/Yogeswari-sri
 
 
 
