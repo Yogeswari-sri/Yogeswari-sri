@@ -25,7 +25,7 @@ ________________________________________________________________________________
 | Project | Description | Tools |
 |----------|--------------|--------|
 | **E‑commerce Sales Dashboard** | KPI‑driven analysis of sales trends | Power BI |
-| **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, SQL |
+| **REAL TIME AGRICULTURE COMMODITY MARKETING ANALYSIS** | Productivity vs. screen time dashboard | Power BI, SQL |
 | **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
 | **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
 | **Chocolate Sales Analysis** | Regional & product‑level insights with KPIs | Power BI |
