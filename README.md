@@ -30,6 +30,7 @@ ________________________________________________________________________________
 | **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
 | **Chocolate Sales Analysis** | Regional & product‑level insights with KPIs | Power BI |
 | **ATM CREDIT CARDS Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
+| **Real-Time Agricultural Commodity Price Monitoring ** | Real-Time Records for Tracing Market price Fluctuations | Power Query, Power BI
 
 __________________________________________________________________________________________________________________________________________________________________________
 
