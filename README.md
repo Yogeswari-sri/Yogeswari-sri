@@ -15,15 +15,19 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________________________
 
-📌 About Me
+## 📌 About Me
 
 I am an engineering graduate with a strong foundation in problem-solving and analytical thinking.
 Currently focused on Data Analytics, I specialize in transforming raw data into actionable insights through dashboards, reports, and workflow automation.
 
 🎓 Engineering Graduate (B.Tech) → Information Technology
-📊 Data Analytics Enthusiast → Transforming raw data into insights  
+
+📊 Data Analytics Enthusiast → Transforming raw data into insights 
+
 📈 Business Intelligence & Visualization → Dashboards & reports  
+
 ⚙️ Tech Skills → Python | SQL | Power BI | Excel  
+
 🔄 Data Processing & Automation → Cleaning & workflow automation  
 
 ____________________________________________________________________________________________________________________________________________________________________________
@@ -42,25 +46,51 @@ ________________________________________________________________________________
 | **Customer Support Ticket Analyze** | New ticket added to existing one for classification & insights | Python
 | **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python(Numpy)
 __________________________________________________________________________________________________________________________________________________________________________
-🔑 Highlights
+## 🔑 Highlights
 
 📊 Dashboards: Power BI, Python, Excel for KPI-driven insights
+
 🗄️ Data Handling: SQL queries, Power Query for cleaning, and aggregation workflows
+
 🧠 Analytics: Python (NumPy, Pandas, NLP) for advanced statistical modeling
+
 🌍 Domains: E-commerce, Retail, Finance & Banking, griculture,Education, Transporattion, Customer Support
 __________________________________________________________________________________________________________________________________________________________________________
-🏆 Achievements
-. Built interactive dashboards with 10,000+ sales records  
-. Applied predictive & prescriptive analytics for business insights  
+## 🏆 Achievements  
+. Built interactive dashboards with 10,000+ sales records 
+
+. Applied predictive & prescriptive analytics for business insights 
+
 . Designed uniform report formats with clear KPIs  
-. Contributed to open‑source datasets & GitHub repositories  
+
+. Contributed to open-source datasets & GitHub repositories 
+
+. Automated Excel workflows using Power Query & VBA  
+
+. Optimized SQL queries for faster performance on large datasets
+
+. Published Python notebooks for data cleaning & visualization 
+
+. Presented analytics projects in academic/industry forums  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🎯 Goals  
+. Expand portfolio with real-world analytics projects  
+
+. Automate data cleaning workflows using Python & SQL  
+
+. Contribute to open-source data projects  
+
+. Gain expertise in cloud data tools (Azure, AWS, Google BigQuery)  
+
+. Build advanced Power BI dashboards with AI visuals  
+
+. Prepare for professional certifications (Microsoft Data Analyst, SQL, Python)  
+
+. Collaborate on global data hackathons & competitions  
+
 ____________________________________________________________________________________________________________________________________________________________________________
-🎯 Goals
-- Expand portfolio with real‑world analytics projects  
-- Learn advanced machine learning for analytics  
-- Automate data cleaning workflows using Python & SQL  
-- Contribute to open‑source data projects  
-___________________________________________________________________________________________________________________________________________________________________________
 🌐 Languages
 - English  
 - Tamil  
