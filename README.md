@@ -13,6 +13,63 @@ ________________________________________________________________________________
 - 📑 **Excel** – Pivot tables, Power Query  
 - 💻 **GitHub** – Repo management, CI basics  
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Yogeswari K – Data Analyst</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; }
+    header { background: linear-gradient(90deg, #0077b6, #00b4d8); color: white; padding: 40px; text-align: center; }
+    header h1 { margin: 0; font-size: 2.5em; }
+    header p { font-size: 1.2em; }
+    section { padding: 40px; max-width: 900px; margin: auto; }
+    h2 { color: #0077b6; }
+    .skills, .projects { display: flex; flex-wrap: wrap; gap: 20px; }
+    .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); flex: 1; }
+    footer { background: #0077b6; color: white; text-align: center; padding: 20px; }
+    a { color: #00b4d8; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Yogeswari K</h1>
+    <p>Data Analyst • Turning data into decisions</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>IT Engineering Graduate, pursuing Data Analyst course. Passionate about clean data, dashboards, and actionable insights.</p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="card">Power BI (Dashboards, DAX)</div>
+      <div class="card">Excel (Pivot Tables, Advanced Formulas)</div>
+      <div class="card">SQL (Joins, Aggregations)</div>
+      <div class="card">Python (Pandas, NumPy, Matplotlib)</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <div class="projects">
+      <div class="card"><b>ATM Analytics Dashboard</b><br>RBI regulations, ATM usage insights</div>
+      <div class="card"><b>E-Commerce ROI Dashboard</b><br>Sales, profit, customer trends</div>
+      <div class="card"><b>Student Performance Analysis</b><br>NumPy based marks analysis</div>
+    </div>
+  </section>
+
+  <footer>
+    <p>📧 kadalyoga20@gmail.com | <a href="https://github.com/Yogeswari-sri">GitHub</a> | LinkedIn</p>
+  </footer>
+
+</body>
+</html>
+
 ____________________________________________________________________________________________________________________________________________________________________________
 
 ## 📌 About Me
