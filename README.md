@@ -83,7 +83,6 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ## 🏅 Profile Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=onedark)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
