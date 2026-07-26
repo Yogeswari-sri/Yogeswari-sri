@@ -100,6 +100,21 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ----
 
+## 💼 Professional Snapshot
+
+<p align="center">
+  <b>Data Analyst · Dashboards · Visualization · SQL · Python</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-12-F75C7E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Stars-Growing-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Live-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboards-10-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics%20Projects-12-orange?style=for-the-badge" />
+
+-----
+
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yogeswarikadarkarai"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
