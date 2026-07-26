@@ -42,10 +42,12 @@ ________________________________________________________________________________
   
 -----
 
-## 🎓 Certifications
-- Google Data Analytics Certificate  
-- Microsoft Power BI Certification  
-- (Add more: Kaggle notebooks, hackathon participation, etc.)
+## 🎓 AI Driven Data Analyst Course
+Issuer: Entri Elevate (Sep 2026)
+Highlights:
+
+Skilled in Power BI, SQL, Python, and Excel for data cleaning, visualization, and reporting
+Applied AI techniques to deliver predictive insights and build interactive dashboards with actionable KPIs.)
 
 -------
 
