@@ -1,10 +1,15 @@
-## Hi Im Yogeswari 👋
+# About-Me
+<!-- Banner -->
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.fe409239-f9e1-4b02-915c-1210c942d8fb.png" alt="Dynamic Banner" width="100%" />
+</p>
+<!-- Name -->
+<h1 align="center">Hi 👋, I'm Yogeswari</h1>
+<h3 align="center">Turning data into insights & creativity into impact</h3>
 
 🎓 Engineering Graduate (B.Tech Information Technology)
-
-📈 Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, Python
-_______________________________________________________________________________________________________________________________________________________________________
-
+ 
+-----
 
 ## 🛠️ Skills & Tools  
 - 📊 **Power BI** – End-to-end dashboards & KPI reporting  
@@ -13,24 +18,8 @@ ________________________________________________________________________________
 - 📑 **Excel** – Pivot tables, Power Query  
 - 💻 **GitHub** – Repo management, CI basics  
 
-____________________________________________________________________________________________________________________________________________________________________________
+------
 
-## 📌 About Me
-
-I am an engineering graduate with a strong foundation in problem-solving and analytical thinking.
-Currently focused on Data Analytics, I specialize in transforming raw data into actionable insights through dashboards, reports, and workflow automation.
-
-🎓 Engineering Graduate (B.Tech) → Information Technology
-
-📊 Data Analytics Enthusiast → Transforming raw data into insights 
-
-📈 Business Intelligence & Visualization → Dashboards & reports  
-
-⚙️ Tech Skills → Python | SQL | Power BI | Excel  
-
-🔄 Data Processing & Automation → Cleaning & workflow automation  
-
-____________________________________________________________________________________________________________________________________________________________________________
 ## 📊 Projects
 
 | Project | Description | Tools |
@@ -46,6 +35,82 @@ ________________________________________________________________________________
 | **Customer Support Ticket Analyze** | New ticket added to existing one for classification & insights | Python
 | **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python(Numpy)
 __________________________________________________________________________________________________________________________________________________________________________
+## 🛠️ Skills
+- **Languages:** Python, SQL, HTML  
+- **Libraries:** Pandas, Seaborn, Matplotlib  
+- **Tools:** Power BI, Excel, GitHub, VS Code
+  
+-----
+
+## 🎓 Certifications
+- Google Data Analytics Certificate  
+- Microsoft Power BI Certification  
+- (Add more: Kaggle notebooks, hackathon participation, etc.)
+
+-------
+
+## 🏆 Achievements
+- Practicing Python plotting (scatter, heatmap, violin, box, histogram)  
+- Built creative repos like **Remix of Noire‑07**  
+- Active in **Data Playground** for analytics practice
+
+------
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeswari-sri&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏅 Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <!-- Snake Contribution Graph -->
+  <img src="https://github.com/Yogeswari-sri/Yogeswari-sri/blob/output/snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeswari-sri&theme=radical&bg_color=000000&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
+</p>
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogeswarikadarkarai"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="https://github.com/Yogeswari-sri)"><img src="https://img.shields.io/badge/GitHub-blue?logo=GitHub" /></a>
+  <a href="https://www.kadalyoga20@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?logo=Gmail" /></a>
+  
+  ---
+
+  ## 👀 Profile Views & Visitors
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Yogeswari-sri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
 ## 🔑 Highlights
 
 📊 Dashboards: Power BI, Python, Excel for KPI-driven insights
@@ -93,15 +158,8 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________
 🌐 Languages
 - English  
-- Tamil  
-  __________________________________________________________________________________________________________________________________________________________________________
- 🔗 Connect With Me
-- [LinkedIn](https://https://www.linkedin.com/in/yogeswarikadarkarai/)  
-- [GitHub](https://github.com/Yogeswari-sri)  
-- 📧 Email: kadalyoga20@gmail.com
-- 📱 Phone: +91 9845702670
-
-
+- Tamil
+-----
 
 
 😄 Pronouns: Data Analyst | Excel & Power BI | She/Her
