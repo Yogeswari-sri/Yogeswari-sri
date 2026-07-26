@@ -60,6 +60,10 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ## 📈 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=radical)
+
+
 <p align="center">
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -78,6 +82,9 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 ---
 
 ## 🏅 Profile Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=onedark)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </p>
@@ -127,7 +134,8 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Yogeswari-sri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yogeswari-sri&color=blue&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
 
 
 ## 🔑 Highlights
