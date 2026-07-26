@@ -96,6 +96,13 @@ ________________________________________________________________________________
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeswari-sri&theme=radical&bg_color=000000&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
+----
+
+## 🔥 Contribution Heatmap
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=false&count_private=true&include_all_commits=true&hide=issues,contribs&theme=radical" alt="Contribution Heatmap" />
+</p>
+
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yogeswarikadarkarai"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
