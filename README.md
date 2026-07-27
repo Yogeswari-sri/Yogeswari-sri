@@ -56,16 +56,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 - Built creative repos like **Remix of Noire‑07**  
 - Active in **Data Playground** for analytics practice
 
-------
-
-## 📈 GitHub Stats
-
-![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeswari-sri&show_icons=true&theme=radical)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=radical)
-
+-----
 
 <p align="center">
   <!-- Overall Stats -->
