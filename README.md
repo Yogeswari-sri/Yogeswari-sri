@@ -77,36 +77,15 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 ---
 
 ## 🏆 Github Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=radical&margin-w=15)
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Yogeswari-sri/Yogeswari-sri/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/Yogeswari-sri/Yogeswari-sri/blob/output/snake.svg)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=radical&margin-w=15)
 ------
 
-# Hi there 👋 I'm Yogeswari-sri
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yogeswari-sri&theme=radical)
-
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=radical)
-
-## 🏆 Github Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=radical&margin-w=15)
-
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/Yogeswari-sri/Yogeswari-sri/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogeswari-sri/Yogeswari-sri/output/github-contribution-grid-snake.svg)" />
+</p>
 
-![Snake animation](https://github.com/Yogeswari-sri/Yogeswari-sri/blob/output/snake.svg)
-
---------
-
+-----
 
 ## 🐍 Contribution Activity
 
