@@ -83,7 +83,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ![Snake animation](https://github.com/Yogeswari-sri/Yogeswari-sri/blob/output/snake.svg)
 
---------
+------
 
 ## 🐍 Contribution Activity
 
