@@ -83,17 +83,19 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 - Active in **Data Playground** for analytics practice
 
 -----
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterorgs-yogeswari-sri.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeswari-sri&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Yogeswari-sri&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ---
