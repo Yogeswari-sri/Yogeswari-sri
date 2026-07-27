@@ -1,10 +1,4 @@
 # About-Me
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
-</p>
-
-
 <!-- Capsule Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst+👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
