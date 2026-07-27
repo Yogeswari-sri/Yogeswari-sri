@@ -1,17 +1,8 @@
 # About-Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00CED1&height=180&section=header&text=Data+Analyst+%7C+Turning+Numbers+into+Insights&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00CED1&height=180&section=header&text=I'm Yogeswari-sri+%7C+Data+Analyst+%7C+Turning+Numbers+into+Insights&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:00BFFF&height=180&section=header&text=Data+Visualization+%7C+Dashboards+%7C+KPIs&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:228B22&height=200&section=header&text=Always+Learning,+Always+Building&fontSize=30&fontColor=ffffff&animation=twinkling" />
-</p>
 
 
 <!-- Typing Animation -->
