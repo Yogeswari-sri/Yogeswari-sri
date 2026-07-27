@@ -81,7 +81,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 ## 🏆 Github General Stats
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=vision-friendly" alt="GitHub Stats"  />
+     <img src="https://github-readme-stats-git-masterstefan-patch-1-anuraghazral.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=vision-friendly" alt="GitHub Stats"  />
   </a>
 </p>
 ------
