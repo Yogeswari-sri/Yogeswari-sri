@@ -1,7 +1,18 @@
 # About-Me
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
+</p>
+
+
+<!-- Capsule Banner -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst+👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<!-- Extra Professionalism Text -->
+<p align="center">
+  <b>✨ Passionate about Data Visualization & Business Insights ✨</b>
 </p>
 
 
@@ -9,10 +20,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=700&lines=✨+Data+Analyst+%7C+Python+Learner+%7C+Creative+Designer;📊+SQL+%7C+Power+BI+%7C+Excel+%7C+Python;🚀+Turning+Numbers+into+Decisions;🌱+Always+Learning+Always+Building" />
 </p>
-
----
-
-
 
 ---
 
@@ -185,4 +192,12 @@ ________________________________________________________________________________
 
 
 😄 Pronouns: Data Analyst | Excel & Power BI | She/Her
+
+-----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=120&section=footer&text=Thanks+for+visiting+—+Yogeswari+%7C+Always+Learning,+Always+Building&fontSize=20&fontColor=ffffff&animation=twinkling" />
+</p>
+
+-------
   
