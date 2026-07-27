@@ -1,13 +1,15 @@
 # About-Me
 <!-- Capsule Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF69B4&height=200&section=header&text=Hi+I'm+Yogeswari-sri+👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF69B4&height=200&section=header&text=Hi+I'm+Yogeswari+👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=700&lines=✨+Data+Analyst+%7C+Python+Learner+%7C+Creative+Designer;📊+SQL+%7C+Power+BI+%7C+Excel;🚀+Turning+Numbers+into+Decisions;🌱+Always+Learning+Always+Building" />
 </p>
+
 
 
 ---
