@@ -1,6 +1,11 @@
 # About-Me
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst+👋;Passionate+about+Data+Visualization+%26+Business+Insights&fontSize=28&fontColor=ffffff&animation=twinkling" />
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst+👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
