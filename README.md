@@ -9,6 +9,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:228B22&height=200&section=header&text=Always+Learning,+Always+Building&fontSize=30&fontColor=ffffff&animation=twinkling" />
+</p>
+
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=700&lines=✨+Data+Analyst+%7C+Python+Learner+%7C+Creative+Designer;📊+SQL+%7C+Power+BI+%7C+Excel+%7C+Python;🚀+Turning+Numbers+into+Decisions;🌱+Always+Learning+Always+Building" />
