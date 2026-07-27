@@ -73,7 +73,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ## 🏆 Top Languages
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=vision-friendly" alt="Top Languages" width="400" />
 </p>
 
 ------
@@ -81,7 +81,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 ## 🏆 Github Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=radical&margin-w=15&row=1&column=6" alt="GitHub Trophies"  />
+     <img src="https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=dracula&margin-w=15&row=1&column=6" alt="GitHub Trophies"  />
   </a>
 </p>
 ------
