@@ -1,7 +1,7 @@
 # About-Me
 <!-- Capsule Banner (Top) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF69B4&height=200&section=header&text=Hi+I'm+Yogeswari-sri+👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF69B4&height=200&section=header&text=Hi+I'm+Yogeswari K+👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- Typing Animation -->
