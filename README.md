@@ -100,16 +100,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 -----
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <!-- Snake Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeswari-sri&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeswari-sri&theme=radical&bg_color=000000&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
 </p>
