@@ -1,11 +1,14 @@
 # About-Me
 <!-- Banner -->
+<!-- Capsule Banner -->
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.fe409239-f9e1-4b02-915c-1210c942d8fb.png" alt="Dynamic Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF69B4&height=200&section=header&text=Hi+I'm+Yogeswari-sri+👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
-<!-- Name -->
-<h1 align="center">Hi 👋, I'm Yogeswari</h1>
-<h3 align="center">Turning data into insights & creativity into impact</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Always+Building" />
+</p>
 
 🎓 Engineering Graduate (B.Tech Information Technology)
 
