@@ -1,8 +1,8 @@
 # About-Me
-<!-- Capsule Banner (Top) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF69B4&height=200&section=header&text=Hi+I'm+Yogeswari+👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00CED1&height=180&section=header&text=Data+Analyst+%7C+Turning+Numbers+into+Insights&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
