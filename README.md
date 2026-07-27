@@ -84,19 +84,6 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 -----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats-git-masterorgs-yogeswari-sri.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Yogeswari-sri&theme=radical" alt="GitHub Streak" />
-</p>
----
-
 ## 🏆 Top Languages
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=vision-friendly" alt="Top Languages" width="400" />
