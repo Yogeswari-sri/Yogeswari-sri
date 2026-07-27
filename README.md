@@ -86,7 +86,9 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ## 🏆 Github Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=radical&margin-w=15&row=1&column=6" alt="GitHub Trophies"  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+     <img src="https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=radical&margin-w=15&row=1&column=6" alt="GitHub Trophies"  />
+  </a>
 </p>
 ------
 
@@ -102,7 +104,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 <p align="center">
   <!-- Snake Contribution Graph -->
-  <img src="https://github.com/Yogeswari-sri/Yogeswari-sri/blob/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeswari-sri&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
