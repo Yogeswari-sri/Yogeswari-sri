@@ -1,6 +1,8 @@
 # About-Me
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00CED1&height=180&section=header&text=I'm Yogeswari-sri+%7C+Data+Analyst+%7C+Turning+Numbers+into+Insights&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst&fontSize=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
 
