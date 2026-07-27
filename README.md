@@ -21,10 +21,10 @@
   <a href="https://github.com/Yogeswari-sri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow"/>
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/yogeswarikadarkarai" target="_blank">
+  <a href="https://www.linkedin.com/in/yogeswarikadarkarai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect"/>
   </a>
-  <a href="mailto:kadalyoga@gmail.com" target="_blank">
+  <a href="mailto:kadalyoga20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail Contact"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" alt="Profile Views"/>
