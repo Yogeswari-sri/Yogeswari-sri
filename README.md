@@ -4,6 +4,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:00BFFF&height=180&section=header&text=Data+Visualization+%7C+Dashboards+%7C+KPIs&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=700&lines=✨+Data+Analyst+%7C+Python+Learner+%7C+Creative+Designer;📊+SQL+%7C+Power+BI+%7C+Excel+%7C+Python;🚀+Turning+Numbers+into+Decisions;🌱+Always+Learning+Always+Building" />
