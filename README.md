@@ -90,6 +90,20 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ---
 
+## 📊 GitHub Stats
+![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yogeswari-sri&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yogeswari-sri&theme=radical&margin-w=15)
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/YOUR_USERNAME/Yogeswari-sri/blob/output/github-contribution-grid-snake.svg)
+
+--------
+
 ## 🐍 Contribution Activity
 
 <p align="center">
