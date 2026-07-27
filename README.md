@@ -78,15 +78,6 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 ------
 
-## 🏆 Github General Stats
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=vision-friendly" alt="Yogeswari's GitHub Stats" />
-  </a>
-</p>
-
-------
-
 ## 🐍 Contribution Snake
 
 <p align="center">
