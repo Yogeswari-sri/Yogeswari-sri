@@ -18,6 +18,10 @@
 ---
 
 <p align="center">
+  <a href="https://yogeswari-k.lovable.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio Link"/>
+</a>
+
   <a href="https://github.com/Yogeswari-sri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow"/>
   </a>
