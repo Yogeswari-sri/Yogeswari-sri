@@ -1,13 +1,15 @@
 # About-Me
 <!-- Capsule Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Yogeswari+%7C+Data+Analyst+👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=220&section=header&text=Yoga%20%7C%20Aspiring%20Data%20Professional&fontSize=32&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- Extra Professionalism Text -->
+<!-- Professional Tagline -->
 <p align="center">
-  <b>✨ Passionate about Data Visualization & Business Insights ✨</b>
+  <b>💡 Passionate about Python, Data Visualization & Analytics</b><br>
+  <b>🎯 Focused on building beginner‑friendly projects & sharing knowledge</b>
 </p>
+
 
 
 <!-- Typing Animation -->
@@ -44,7 +46,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 📊 Data Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -54,13 +56,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
--------
 
 ## 🎓 Education
 Engineering Graduate (B.Tech Information Technology)
