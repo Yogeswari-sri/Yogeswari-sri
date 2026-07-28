@@ -181,6 +181,14 @@ ________________________________________________________________________________
 
 . Presented analytics projects in academic/industry forums  
 
+----
+
+<!-- Capsule Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=🏆%20Achievements&fontSize=36&fontColor=ffffff&animation=twinkling" />
+</p>
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 Goals  
