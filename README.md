@@ -165,11 +165,6 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 - Hands‑on exposure to **E‑commerce**, **Retail**, **Finance & Banking**, **Agriculture**, **Education**, **Transportation**, and **Customer Support**.
 ___________________________________________________________________________________________________________
 
-<!-- Capsule Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=🏆%20Achievements&fontSize=36&fontColor=ffffff&animation=twinkling" />
-</p>
-
 ## 🏆 Achievements
 
 - Built **interactive dashboards** analyzing over **10,000+ sales records** for actionable insights.  
@@ -181,24 +176,17 @@ ________________________________________________________________________________
 - Published **Python notebooks** for data cleaning, visualization, and analysis.  
 - Presented **analytics projects** in academic and industry forums, showcasing data‑driven solutions.
 
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🎯 Goals  
-. Expand portfolio with real-world analytics projects  
+## 🎯 Goals
 
-. Automate data cleaning workflows using Python & SQL  
-
-. Contribute to open-source data projects  
-
-. Gain expertise in cloud data tools (Azure, AWS, Google BigQuery)  
-
-. Build advanced Power BI dashboards with AI visuals  
-
-. Prepare for professional certifications (Microsoft Data Analyst, SQL, Python)  
-
-. Collaborate on global data hackathons & competitions  
+- Expand portfolio with **real‑world analytics projects** to showcase practical expertise.  
+- Automate **data cleaning workflows** using **Python & SQL** for efficiency.  
+- Contribute to **open‑source data projects** and collaborate with the community.  
+- Gain expertise in **cloud data tools** (Azure, AWS, Google BigQuery).  
+- Build **advanced Power BI dashboards** with AI‑powered visuals.  
+- Prepare for **professional certifications** (Microsoft Data Analyst, SQL, Python).  
+- Collaborate on **global data hackathons & competitions** to enhance skills and networking.
 
 ____________________________________________________________________________________________________________________________________________________________________________
 🌐 Languages
