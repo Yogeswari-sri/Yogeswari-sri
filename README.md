@@ -188,6 +188,18 @@ ________________________________________________________________________________
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=🏆%20Achievements&fontSize=36&fontColor=ffffff&animation=twinkling" />
 </p>
 
+## 🏆 Achievements
+
+- Built **interactive dashboards** analyzing over **10,000+ sales records** for actionable insights.  
+- Applied **predictive and prescriptive analytics** to drive strategic business decisions.  
+- Designed **uniform report formats** with clear KPIs for consistent performance tracking.  
+- Contributed to **open‑source datasets** and **GitHub repositories** to support community learning.  
+- Automated **Excel workflows** using **Power Query** and **VBA**, improving efficiency.  
+- Optimized **SQL queries** for faster performance on large datasets.  
+- Published **Python notebooks** for data cleaning, visualization, and analysis.  
+- Presented **analytics projects** in academic and industry forums, showcasing data‑driven solutions.
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
