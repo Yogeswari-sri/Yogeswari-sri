@@ -38,23 +38,6 @@
 
 -------
 
-## 💻 Tech Stack
-
-### 🔹 Query & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 📊 Data Visualization
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 📚 Python Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🎓 Education
@@ -62,12 +45,11 @@ Engineering Graduate (B.Tech Information Technology)
 
 -----
 
-## 🛠️ Skills & Tools  
-- 📊 **Power BI** – End-to-end dashboards & KPI reporting  
-- 🗄️ **SQL** – Data cleaning, joins, window functions  
-- 🐍 **Python** – Pandas, Numpy, Matplotlip, Seaborn, Ploty, visualization  
-- 📑 **Excel** – Pivot tables, Power Query  
-- 💻 **GitHub** – Repo management, CI basics  
+## 🛠️ Skills
+- **Languages:** Python, SQL, HTML  
+- **Libraries:** Pandas, Seaborn, Matplotlib  
+- **Tools:** Power BI, Excel, GitHub, VS Code
+  
 
 ------
 
@@ -86,12 +68,6 @@ Engineering Graduate (B.Tech Information Technology)
 | **Customer Support Ticket Analyze** | New ticket added to existing one for classification & insights | Python
 | **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python(Numpy)
 __________________________________________________________________________________________________________________________________________________________________________
-## 🛠️ Skills
-- **Languages:** Python, SQL, HTML  
-- **Libraries:** Pandas, Seaborn, Matplotlib  
-- **Tools:** Power BI, Excel, GitHub, VS Code
-  
------
 
 ## 🎓 AI Driven Data Analyst Course
 Issuer: Entri Elevate (Sep 2026)
