@@ -63,14 +63,7 @@
 -------
 
 ## 🎓 Education
-<img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" width="30"/>  
-**Bachelor’s in Computer Science**  
-XYZ University, 2026
-
-------
-
-🎓 Engineering Graduate (B.Tech Information Technology)
-
+Engineering Graduate (B.Tech Information Technology)
 
 -----
 
