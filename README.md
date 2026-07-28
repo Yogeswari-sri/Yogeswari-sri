@@ -148,18 +148,22 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Yogeswari-sri&color=blue&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-
+------
 
 ## 🔑 Highlights
 
-📊 Dashboards: Power BI, Python, Excel for KPI-driven insights
+### 📊 Dashboards
+- Skilled in **Power BI**, **Python**, and **Excel** for KPI‑driven insights and interactive reporting.
 
-🗄️ Data Handling: SQL queries, Power Query for cleaning, and aggregation workflows
+### 🗄️ Data Handling
+- Experienced in **SQL queries** and **Power Query** for data cleaning, transformation, and aggregation workflows.
 
-🧠 Analytics: Python (NumPy, Pandas, NLP) for advanced statistical modeling
+### 🧠 Analytics
+- Proficient in **Python (NumPy, Pandas, NLP)** for advanced statistical modeling and data‑driven decision making.
 
-🌍 Domains: E-commerce, Retail, Finance & Banking, griculture,Education, Transporattion, Customer Support
-__________________________________________________________________________________________________________________________________________________________________________
+### 🌍 Domains
+- Hands‑on exposure to **E‑commerce**, **Retail**, **Finance & Banking**, **Agriculture**, **Education**, **Transportation**, and **Customer Support**.
+___________________________________________________________________________________________________________
 ## 🏆 Achievements  
 . Built interactive dashboards with 10,000+ sales records 
 
