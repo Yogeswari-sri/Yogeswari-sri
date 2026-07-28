@@ -164,24 +164,6 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 ### 🌍 Domains
 - Hands‑on exposure to **E‑commerce**, **Retail**, **Finance & Banking**, **Agriculture**, **Education**, **Transportation**, and **Customer Support**.
 ___________________________________________________________________________________________________________
-## 🏆 Achievements  
-. Built interactive dashboards with 10,000+ sales records 
-
-. Applied predictive & prescriptive analytics for business insights 
-
-. Designed uniform report formats with clear KPIs  
-
-. Contributed to open-source datasets & GitHub repositories 
-
-. Automated Excel workflows using Power Query & VBA  
-
-. Optimized SQL queries for faster performance on large datasets
-
-. Published Python notebooks for data cleaning & visualization 
-
-. Presented analytics projects in academic/industry forums  
-
-----
 
 <!-- Capsule Banner -->
 <p align="center">
