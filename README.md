@@ -68,7 +68,8 @@ Engineering Graduate (B.Tech Information Technology)
 | **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python(Numpy)
 __________________________________________________________________________________________________________________________________________________________________________
 
-## 🎓 AI Driven Data Analyst Course
+## 🎓 Certification
+**AI Driven Data Analyst Course**
 Issuer: Entri Elevate (Sep 2026)
 Highlights:
 
