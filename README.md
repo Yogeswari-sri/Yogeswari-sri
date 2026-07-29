@@ -6,6 +6,7 @@
 
 <!-- Professional Tagline -->
 <p align="center">
+
   <b>💡 Passionate about Python, Data Visualization & Analytics</b><br>
   <b>🎯 Focused on building beginner‑friendly projects & sharing knowledge</b>
 </p>
