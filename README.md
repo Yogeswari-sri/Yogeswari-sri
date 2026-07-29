@@ -93,10 +93,12 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 
 -----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeswari-sri&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yogeswari-sri&theme=radical)
+
 
 ------
 
