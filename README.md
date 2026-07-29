@@ -90,9 +90,7 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yogeswari-sri&layout=compact&theme=vision-friendly" alt="Top Languages" width="400" />
 </p>
 
-------
-
-## 📊 GitHub Stats
+-----
 
 ## 📊 GitHub Stats
 
@@ -100,16 +98,6 @@ Applied AI techniques to deliver predictive insights and build interactive dashb
   <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical)" alt="Yogeswari's GitHub Stats" />
   <br/>
   <img src="[streak-stats.demolab.com](https://streak-stats.demolab.com/?user=Yogeswari-sri&theme=radical)" alt="Yogeswari's GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeswari-sri&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Yogeswari-sri&theme=radical" alt="GitHub Streak" />
 </p>
 
 ------
