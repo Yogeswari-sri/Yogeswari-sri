@@ -61,12 +61,13 @@ Engineering Graduate (B.Tech Information Technology)
 | **Weather Data Analysis** | Seasonal demand forecasting using climate data | Power BI
 | **REAL TIME AGRICULTURE COMMODITY MARKETING ANALYSIS** | Productivity vs. screen time dashboard | Power BI, SQL |
 | **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
-| **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
+| **Bike Sharing Analysis** | Demand prediction & visualization | Power BI |
 | **Chocolate Sales Analysis** | Regional & product‑level insights with KPIs | Power BI |
 | **ATM CREDIT CARDS Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Excel |
 | **Real-Time Agricultural Commodity Price Monitoring** | Real-Time Records for Tracing Market price Fluctuations | Power Query, Power BI
 | **Customer Support Ticket Analyze** | New ticket added to existing one for classification & insights | Python
 | **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python(Numpy)
+| **Banking Infrastructure & Digital Payment Analysis (2022–2025)** | NumPy-based statistical insights into grades, correlations, and learning trends | Python (NumPy) | Matplotlib | Seaborn
 __________________________________________________________________________________________________________________________________________________________________________
 
 ## 🎓 Certification
